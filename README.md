@@ -1,2 +1,2 @@
-# nightskyglamping
+# template-full-banner-image
 
