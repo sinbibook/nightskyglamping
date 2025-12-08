@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2025-12-05T07:55:50.790Z",
+    "version": "1.3.0",
+    "generatedAt": "2025-12-08T06:09:27.847Z",
     "templateType": "full_banner_image",
     "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
     "homepageId": "55905bc6-d67e-4b7c-a273-ab18b0cefed1"
@@ -1355,7 +1355,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "힐링여행",
                 "images": [
                   {
                     "id": "a780f688-d2e5-4998-a7d4-727ee4ad947f",
@@ -1364,10 +1364,11 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "속초, 별 헤는 밤"
               },
               "closing": {
-                "title": "",
+                "title": "  ",
                 "images": [
                   {
                     "id": "153c524c-f913-4499-903b-6ba17730320d",
@@ -1376,10 +1377,11 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "  "
               },
               "essence": {
-                "title": "",
+                "title": "Special for You",
                 "images": [
                   {
                     "id": "499bb6d4-6661-4ffa-bf4b-d971aed482be",
@@ -1388,10 +1390,11 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "사랑하는 가족, 연인, 친구들과 함께하는 편안한 힐링여행"
               },
               "gallery": {
-                "title": "",
+                "title": "Romance and Rest",
                 "images": [
                   {
                     "id": "59b04b05-6faf-42da-9b65-7541afdf58ae",
@@ -1477,10 +1480,11 @@
                     "description": "",
                     "isSelected": false
                   }
-                ]
+                ],
+                "description": "아름다운 밤하늘 아래 낭만가득한 글램핑으로 잊을 수 없는 추억을 만들어 보세요."
               },
               "signature": {
-                "title": "",
+                "title": "With someone you love",
                 "images": [
                   {
                     "id": "ce484b9b-6ade-471c-a863-8d7b749fd466",
@@ -1510,7 +1514,8 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "사랑하는 사람과 함께 밤하늘의 모든것을 누리세요"
               }
             }
           ]
@@ -1519,7 +1524,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "e2a4288b-33f7-49ca-a2dd-73a320ec6578",
@@ -1541,32 +1546,235 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "d9a891f8-b280-489d-9f3e-52e00ff41500",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794161-8dahr3vuxbn.jpeg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "47fe0a74-c3cc-4b12-a9ff-ddc7fdcdad67",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765174139095-110m5wlx29p.jpeg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "aa893d4a-fa26-4e6f-8211-a8b753f4105c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794162-bs41nrem2em.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "30683f26-7371-4e46-9762-0290bbb9b16d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173820874-9lk3ztw9r09.jpeg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "636ec363-554a-4f86-9f37-60e0e37d3025",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765174139095-3mhktbjxo98.jpeg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "2cb3d554-229c-4b7d-b16d-3286618a9715",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794162-2mr1sopkydp.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "c4a37936-3f33-48da-8234-849c8febad81",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794162-pix5lr4w1.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "4f5062d7-f71d-4be3-ab62-bc3a819ee30e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794162-wisru9redw.jpeg",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "510d801e-e5b0-43f5-a6cb-398ebe099b22",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794162-ot2g778rr9i.jpg",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "f2dc62cf-2eff-49a5-9c1f-337677244748",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794163-17yrjginyyc.jpg",
+                    "sortOrder": 9,
+                    "description": "",
+                    "isSelected": false
+                  }
+                ],
+                "description": " "
               },
-              "about": []
+              "about": [
+                {
+                  "title": "With kids",
+                  "images": [
+                    {
+                      "id": "f7da9838-e3a4-4d30-838c-52701ff84346",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765173794163-s9521qeskp.jpeg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "1eff5b50-7f74-4f37-9c0b-fde809de5a29"
+                    },
+                    {
+                      "id": "1699d393-5ae1-4e5a-b6b5-13e86e6edaa1",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765173794163-kob7m5ha1me.jpeg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "1eff5b50-7f74-4f37-9c0b-fde809de5a29"
+                    }
+                  ],
+                  "blockId": "1eff5b50-7f74-4f37-9c0b-fde809de5a29",
+                  "description": "소중한 아이들과 추억을 만드세요"
+                },
+                {
+                  "title": "The love of my life",
+                  "images": [
+                    {
+                      "id": "4a971a9f-6179-4532-a40a-bd20820147b9",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765174139095-rzgllrdxtlf.jpeg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "50b78ed4-488e-4686-8b41-ce1d60901bad"
+                    },
+                    {
+                      "id": "d6d44452-1d4b-420f-8afe-62add6df46c6",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765174139095-tdx6el4cvh.jpeg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "50b78ed4-488e-4686-8b41-ce1d60901bad"
+                    },
+                    {
+                      "id": "7294067d-c9b8-4bae-9d5d-59a996564d26",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765174139096-km33tzcz5a.jpeg",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": false,
+                      "blockId": "50b78ed4-488e-4686-8b41-ce1d60901bad"
+                    }
+                  ],
+                  "blockId": "50b78ed4-488e-4686-8b41-ce1d60901bad",
+                  "description": "사랑하는 사람과 즐거운 추억 만들기"
+                }
+              ]
             }
           ]
         },
-        "room": [],
+        "room": [
+          {
+            "id": "19db1d4c-3d81-4bde-b2e1-9e4c7f8f6ba7",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "89a62fb3-b64e-4cae-959b-53f55261e446",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "f29e2a22-5df4-4f23-8d19-565c3a997df3",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "89f24dd2-5b81-4496-afbc-c9236879036f",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "2585115c-d89b-4756-94aa-678a6285c283",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          }
+        ],
         "facility": [],
         "reservation": {
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "d8877191-6bac-43f8-b167-9e3efed773c9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/reservation_hero/1764918594571-qqhbutlbxf.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": " ",
                     "isSelected": true
                   }
                 ]
               },
               "about": {
-                "title": "",
+                "title": "속초 밤하늘 글램핑",
                 "images": [
                   {
                     "id": "6d5ab4a0-5a48-49ef-8fad-dca3421c099b",
@@ -1576,7 +1784,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": ""
+                "description": " "
               }
             }
           ]
