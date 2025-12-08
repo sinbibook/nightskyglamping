@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2025-12-08T06:09:27.847Z",
+    "version": "1.4.0",
+    "generatedAt": "2025-12-08T07:26:32.057Z",
     "templateType": "full_banner_image",
     "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
     "homepageId": "55905bc6-d67e-4b7c-a273-ab18b0cefed1"
@@ -1355,17 +1355,31 @@
           "sections": [
             {
               "hero": {
-                "title": "힐링여행",
+                "title": "Healing & Comfort",
                 "images": [
                   {
-                    "id": "a780f688-d2e5-4998-a7d4-727ee4ad947f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_hero/1764830756732-vt0b9o5xou.jpeg",
+                    "id": "095065d5-234b-43a1-ae17-9e3e42363787",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_hero/1765176085000-epkj0swvy26.jpg",
                     "sortOrder": 0,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "1f5c7f98-46c8-4f71-b9c6-ce9346e96c3a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_hero/1765176657303-xhj7gwpt5pb.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "9716aa7a-98ae-46c5-9046-eacf588dd5b3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_hero/1765177154964-zxzrkomxr6g.jpeg",
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": "속초, 별 헤는 밤"
+                "description": "별빛 아래 머무는 순간"
               },
               "closing": {
                 "title": "  ",
@@ -1391,28 +1405,28 @@
                     "isSelected": true
                   }
                 ],
-                "description": "사랑하는 가족, 연인, 친구들과 함께하는 편안한 힐링여행"
+                "description": "사랑하는 가족, 연인, 친구들과 함께하는 따스한 휴식의 시간"
               },
               "gallery": {
                 "title": "Romance and Rest",
                 "images": [
                   {
-                    "id": "59b04b05-6faf-42da-9b65-7541afdf58ae",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-sodtix9nl3o.jpg",
-                    "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "84fcee7b-2552-4689-bf1e-62afc351b598",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-y6zr67o0ss.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "9ee5cb1d-d30a-429c-ab18-d2c3d1102ff2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-q2qz3irrgj.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "9ee5cb1d-d30a-429c-ab18-d2c3d1102ff2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-q2qz3irrgj.jpg",
+                    "id": "c93d70a8-816e-4fcc-864f-4238d71b7f4d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-dl1cn43keft.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true
@@ -1422,35 +1436,35 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-uuqrpvn427.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "c93d70a8-816e-4fcc-864f-4238d71b7f4d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-dl1cn43keft.jpg",
-                    "sortOrder": 4,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "26dac305-c543-42a1-929e-440452572936",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-kwbqqeplx6f.jpg",
-                    "sortOrder": 5,
-                    "description": "",
-                    "isSelected": true
+                    "isSelected": false
                   },
                   {
                     "id": "a4abe37b-26ea-4b90-a362-94c5513ad5ae",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-2yvvevjfv5i.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": false
                   },
                   {
                     "id": "ab64d149-2252-44ce-b690-690cc1405852",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-infv2fykpa.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "26dac305-c543-42a1-929e-440452572936",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-kwbqqeplx6f.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "79abc9ed-755f-4d2c-9165-1da6bedfe265",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471014-zve2r3iam7.jpeg",
                     "sortOrder": 7,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": false
                   },
                   {
                     "id": "d3a4da7d-b417-4db9-9d4f-9ac2806821c8",
@@ -1460,8 +1474,8 @@
                     "isSelected": false
                   },
                   {
-                    "id": "79abc9ed-755f-4d2c-9165-1da6bedfe265",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471014-zve2r3iam7.jpeg",
+                    "id": "59b04b05-6faf-42da-9b65-7541afdf58ae",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-sodtix9nl3o.jpg",
                     "sortOrder": 9,
                     "description": "",
                     "isSelected": false
@@ -1481,7 +1495,7 @@
                     "isSelected": false
                   }
                 ],
-                "description": "아름다운 밤하늘 아래 낭만가득한 글램핑으로 잊을 수 없는 추억을 만들어 보세요."
+                "description": "낭만으로 물드는 글램핑에서 오래도록 머물 이야기"
               },
               "signature": {
                 "title": "With someone you love",
@@ -1505,17 +1519,17 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_signature/1764918422548-ge9tm71cyi9.jpeg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": false
                   },
                   {
                     "id": "f57e8b0a-c1d4-43bd-84eb-f1faaad5ff2f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_signature/1764918422548-u42thobz69i.jpeg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": false
                   }
                 ],
-                "description": "사랑하는 사람과 함께 밤하늘의 모든것을 누리세요"
+                "description": "사랑하는 사람과, 밤하늘을 가득 채우는 순간"
               }
             }
           ]
@@ -1530,6 +1544,13 @@
                     "id": "e2a4288b-33f7-49ca-a2dd-73a320ec6578",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/directions_hero/1764918520859-z729flrlo1.png",
                     "sortOrder": 0,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "3c27d293-13d2-4a3a-87c4-e24c03dfdadc",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/directions_hero/1765178355034-ua1g0xl47o.jpg",
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   }
@@ -1546,91 +1567,105 @@
           "sections": [
             {
               "hero": {
-                "title": " ",
+                "title": " 속초 밤하늘글램핑",
                 "images": [
+                  {
+                    "id": "8ff4887c-60f6-442c-b8cb-a48e44dd98b2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765177968659-akxzgh6jtqe.jpeg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "53c28021-e7fe-44e4-830d-3d05b1862c73",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765177949668-rypvksfgy4b.jpeg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
                   {
                     "id": "d9a891f8-b280-489d-9f3e-52e00ff41500",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794161-8dahr3vuxbn.jpeg",
-                    "sortOrder": 0,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "47fe0a74-c3cc-4b12-a9ff-ddc7fdcdad67",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765174139095-110m5wlx29p.jpeg",
-                    "sortOrder": 1,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "aa893d4a-fa26-4e6f-8211-a8b753f4105c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794162-bs41nrem2em.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "30683f26-7371-4e46-9762-0290bbb9b16d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173820874-9lk3ztw9r09.jpeg",
-                    "sortOrder": 3,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "636ec363-554a-4f86-9f37-60e0e37d3025",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765174139095-3mhktbjxo98.jpeg",
-                    "sortOrder": 4,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "2cb3d554-229c-4b7d-b16d-3286618a9715",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794162-2mr1sopkydp.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": false
                   },
                   {
                     "id": "c4a37936-3f33-48da-8234-849c8febad81",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794162-pix5lr4w1.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 8,
                     "description": "",
                     "isSelected": false
                   },
                   {
                     "id": "4f5062d7-f71d-4be3-ab62-bc3a819ee30e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794162-wisru9redw.jpeg",
-                    "sortOrder": 7,
+                    "sortOrder": 9,
                     "description": "",
                     "isSelected": false
                   },
                   {
                     "id": "510d801e-e5b0-43f5-a6cb-398ebe099b22",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794162-ot2g778rr9i.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 10,
                     "description": "",
                     "isSelected": false
                   },
                   {
                     "id": "f2dc62cf-2eff-49a5-9c1f-337677244748",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_hero/1765173794163-17yrjginyyc.jpg",
-                    "sortOrder": 9,
+                    "sortOrder": 11,
                     "description": "",
                     "isSelected": false
                   }
                 ],
-                "description": " "
+                "description": " 숙소소개"
               },
               "about": [
                 {
-                  "title": "With kids",
+                  "title": "Healing",
                   "images": [
                     {
                       "id": "f7da9838-e3a4-4d30-838c-52701ff84346",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765173794163-s9521qeskp.jpeg",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true,
+                      "isSelected": false,
                       "blockId": "1eff5b50-7f74-4f37-9c0b-fde809de5a29"
                     },
                     {
@@ -1638,43 +1673,74 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765173794163-kob7m5ha1me.jpeg",
                       "sortOrder": 1,
                       "description": "",
+                      "isSelected": false,
+                      "blockId": "1eff5b50-7f74-4f37-9c0b-fde809de5a29"
+                    },
+                    {
+                      "id": "b8262cd7-ee29-4cee-8ab0-20440652c578",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765178172137-rnda2et7mog.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "1eff5b50-7f74-4f37-9c0b-fde809de5a29"
+                    },
+                    {
+                      "id": "cd05c876-c402-4923-aa42-8ba26eee5ba9",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765178172137-4mqvjvdwksv.jpeg",
+                      "sortOrder": 3,
+                      "description": "",
                       "isSelected": true,
                       "blockId": "1eff5b50-7f74-4f37-9c0b-fde809de5a29"
                     }
                   ],
                   "blockId": "1eff5b50-7f74-4f37-9c0b-fde809de5a29",
-                  "description": "소중한 아이들과 추억을 만드세요"
+                  "description": "낮에는 피톤치드 가득한 소나무숲에서 조용하고\n아늑한 힐링 타임을 가져보시고, 밤에는 별이\n빛나는 속초의 밤하늘을 감상해 보세요."
                 },
                 {
-                  "title": "The love of my life",
+                  "title": "Comfort",
                   "images": [
                     {
-                      "id": "4a971a9f-6179-4532-a40a-bd20820147b9",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765174139095-rzgllrdxtlf.jpeg",
-                      "sortOrder": 2,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "50b78ed4-488e-4686-8b41-ce1d60901bad"
-                    },
-                    {
-                      "id": "d6d44452-1d4b-420f-8afe-62add6df46c6",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765174139095-tdx6el4cvh.jpeg",
-                      "sortOrder": 3,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "50b78ed4-488e-4686-8b41-ce1d60901bad"
-                    },
-                    {
-                      "id": "7294067d-c9b8-4bae-9d5d-59a996564d26",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765174139096-km33tzcz5a.jpeg",
+                      "id": "05fb821c-19ab-4432-b451-387efadf2a7b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765178291830-xhl4lt8qvg7.jpeg",
                       "sortOrder": 4,
                       "description": "",
-                      "isSelected": false,
-                      "blockId": "50b78ed4-488e-4686-8b41-ce1d60901bad"
+                      "isSelected": true,
+                      "blockId": "f5ac4916-a70e-4bcd-8422-19e70dac5242"
+                    },
+                    {
+                      "id": "0701ad92-94c2-45e6-a6c3-f791dc19f0ed",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765178291830-1qy9nqapj4e.jpeg",
+                      "sortOrder": 5,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "f5ac4916-a70e-4bcd-8422-19e70dac5242"
                     }
                   ],
-                  "blockId": "50b78ed4-488e-4686-8b41-ce1d60901bad",
-                  "description": "사랑하는 사람과 즐거운 추억 만들기"
+                  "blockId": "f5ac4916-a70e-4bcd-8422-19e70dac5242",
+                  "description": "속초밤하늘글램핑에서 쉽고 편안하게 캠핑의\n낭만을 누려보세요."
+                },
+                {
+                  "title": "Fun",
+                  "images": [
+                    {
+                      "id": "ac8b50c1-ebcf-45d8-a72d-373e194e93a6",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765178291830-9oxn6ebko04.jpeg",
+                      "sortOrder": 6,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "e323b454-2b05-4ca3-add5-f3b382463fcf"
+                    },
+                    {
+                      "id": "e8576633-2fd6-4d6c-979c-9e312b2c0db7",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/main_about/1765178291830-v57lf8bp1dn.jpeg",
+                      "sortOrder": 7,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "e323b454-2b05-4ca3-add5-f3b382463fcf"
+                    }
+                  ],
+                  "blockId": "e323b454-2b05-4ca3-add5-f3b382463fcf",
+                  "description": "속초여행뿐만 아니라 글램핑장에 준비된\n남녀노소 누구나 즐길 수 있는 다양한\n재미요소를 만나보세요."
                 }
               ]
             }
@@ -1768,18 +1834,25 @@
                     "id": "d8877191-6bac-43f8-b167-9e3efed773c9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/reservation_hero/1764918594571-qqhbutlbxf.jpg",
                     "sortOrder": 0,
-                    "description": " ",
+                    "description": "",
                     "isSelected": true
                   }
                 ]
               },
               "about": {
-                "title": "속초 밤하늘 글램핑",
+                "title": "속초 밤하늘글램핑 ",
                 "images": [
                   {
                     "id": "6d5ab4a0-5a48-49ef-8fad-dca3421c099b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/reservation_about/1764918594571-zjc0ltbr3f.jpg",
                     "sortOrder": 0,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "6e831647-1b4c-42ca-a425-b96c06d97c64",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/reservation_about/1765178544454-38oigwqcn4y.jpeg",
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   }
