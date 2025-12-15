@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2025-12-08T11:10:38.713Z",
+    "version": "1.8.0",
+    "generatedAt": "2025-12-15T06:32:42.028Z",
     "templateType": "full_banner_image",
     "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
     "homepageId": "55905bc6-d67e-4b7c-a273-ab18b0cefed1"
@@ -12,9 +12,9 @@
     "description": "",
     "subtitle": "속초 밤하늘글램핑",
     "address": "강원특별자치도 속초시 장성천길 151",
-    "latitude": 0,
-    "longitude": 0,
-    "contactPhone": "",
+    "latitude": 38.2147004749797,
+    "longitude": 128.547195911576,
+    "contactPhone": "010-8789-4936",
     "contactEmail": "loginteam@hanmail.net",
     "checkin": "15:00:00",
     "checkout": "11:00:00",
