@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-04-06T03:18:26.741Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-04-07T05:05:07.405Z",
     "templateType": "full_banner_image",
     "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
     "homepageId": "55905bc6-d67e-4b7c-a273-ab18b0cefed1"
@@ -2151,7 +2151,7 @@
   ],
   "homepage": {
     "domain": "nightskyglamping.kr",
-    "templateType": "full_banner_image",
+    "templateType": "full_banner_conveyer",
     "images": [
       {
         "logo": [
@@ -2187,6 +2187,20 @@
                     "isSelected": false
                   },
                   {
+                    "id": "9716aa7a-98ae-46c5-9046-eacf588dd5b3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_hero/1765177154964-zxzrkomxr6g.jpeg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "f23b2f96-9719-4482-b52e-af76d9619ee5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_hero/1775534356419-klez39bl67f.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "1f5c7f98-46c8-4f71-b9c6-ce9346e96c3a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_hero/1765176657303-xhj7gwpt5pb.jpg",
                     "sortOrder": 1,
@@ -2194,14 +2208,28 @@
                     "isSelected": false
                   },
                   {
-                    "id": "9716aa7a-98ae-46c5-9046-eacf588dd5b3",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_hero/1765177154964-zxzrkomxr6g.jpeg",
+                    "id": "5dd3ba35-bb54-4a43-8e91-8b23c54c98da",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_hero/1775534356419-99bj3p428g9.jpg",
                     "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "5f878337-5cc8-4670-9d1f-3c50603815be",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_hero/1775534356419-gjej8xy2ck.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "501b1ebf-f336-45af-8fde-bfe1905eb231",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_hero/1775534356419-rq5o0umjjeq.jpg",
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": "별빛 아래 머무는 순간"
+                "description": "속초 밤하늘 글램핑"
               },
               "closing": {
                 "title": "  ",
@@ -2225,6 +2253,20 @@
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
+                  },
+                  {
+                    "id": "a6d2319d-dddd-4c97-b1d1-78b08249afa5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_essence/1775534356419-zdh3cjqoz4q.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "3e408c30-620e-499b-ad96-a5b401a95f27",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_essence/1775534356419-y5ci1xosiz.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
                   }
                 ],
                 "description": "사랑하는 가족, 연인, 친구들과 함께하는 따스한 휴식의 시간"
@@ -2237,7 +2279,7 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-y6zr67o0ss.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": false
+                    "isSelected": true
                   },
                   {
                     "id": "9ee5cb1d-d30a-429c-ab18-d2c3d1102ff2",
@@ -2254,67 +2296,25 @@
                     "isSelected": true
                   },
                   {
-                    "id": "f2528b40-abec-4d83-a365-1df075d61078",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-uuqrpvn427.jpg",
-                    "sortOrder": 3,
-                    "description": "",
-                    "isSelected": false
-                  },
-                  {
                     "id": "a4abe37b-26ea-4b90-a362-94c5513ad5ae",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-2yvvevjfv5i.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "",
-                    "isSelected": false
+                    "isSelected": true
                   },
                   {
                     "id": "ab64d149-2252-44ce-b690-690cc1405852",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-infv2fykpa.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "60a8ec9a-a0b2-4189-b28a-90b0443a0934",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1775534356419-iyglhgck6w.jpg",
                     "sortOrder": 5,
                     "description": "",
-                    "isSelected": false
-                  },
-                  {
-                    "id": "26dac305-c543-42a1-929e-440452572936",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-kwbqqeplx6f.jpg",
-                    "sortOrder": 6,
-                    "description": "",
-                    "isSelected": false
-                  },
-                  {
-                    "id": "79abc9ed-755f-4d2c-9165-1da6bedfe265",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471014-zve2r3iam7.jpeg",
-                    "sortOrder": 7,
-                    "description": "",
-                    "isSelected": false
-                  },
-                  {
-                    "id": "d3a4da7d-b417-4db9-9d4f-9ac2806821c8",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-1bb22ia1eu3.jpeg",
-                    "sortOrder": 8,
-                    "description": "",
-                    "isSelected": false
-                  },
-                  {
-                    "id": "59b04b05-6faf-42da-9b65-7541afdf58ae",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471013-sodtix9nl3o.jpg",
-                    "sortOrder": 9,
-                    "description": "",
-                    "isSelected": false
-                  },
-                  {
-                    "id": "265838bb-1058-4a48-b885-2eebf488f67b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471014-hoxqqkzba05.jpeg",
-                    "sortOrder": 10,
-                    "description": "",
-                    "isSelected": false
-                  },
-                  {
-                    "id": "d94b58c6-fff8-4308-9017-11e4e6d86d9b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/index_gallery/1764837471014-7wituaikuur.jpeg",
-                    "sortOrder": 11,
-                    "description": "",
-                    "isSelected": false
+                    "isSelected": true
                   }
                 ],
                 "description": "낭만으로 물드는 글램핑에서 오래도록 머물 이야기"
@@ -2363,31 +2363,17 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "e2a4288b-33f7-49ca-a2dd-73a320ec6578",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/directions_hero/1764918520859-z729flrlo1.png",
-                    "sortOrder": 0,
-                    "description": "",
-                    "isSelected": false
-                  },
-                  {
-                    "id": "3c27d293-13d2-4a3a-87c4-e24c03dfdadc",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/directions_hero/1765178355034-ua1g0xl47o.jpg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": false
-                  },
-                  {
                     "id": "081f49f7-c1ca-48f5-82e6-cb4b983747d3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/55905bc6-d67e-4b7c-a273-ab18b0cefed1/directions_hero/1765867526995-fni18zz94tf.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
                 ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": " ",
+                "description": " "
               }
             }
           ]
@@ -2483,7 +2469,7 @@
                     "isSelected": false
                   }
                 ],
-                "description": " 숙소소개"
+                "description": " "
               },
               "about": [
                 {
@@ -6527,7 +6513,30 @@
             }
           ]
         }
-      ]
+      ],
+      "theme": {
+        "font": {
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "enMain": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
+            "key": "cormorant",
+            "woff2": null,
+            "family": "Cormorant"
+          },
+          "koMain": {
+            "cdn": null,
+            "key": "imhyemin",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2",
+            "family": "ImHyeMin"
+          }
+        },
+        "color": null
+      }
     },
     "id": "55905bc6-d67e-4b7c-a273-ab18b0cefed1"
   }
