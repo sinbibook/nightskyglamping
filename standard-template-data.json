@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-04-07T05:09:58.434Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-04-15T03:36:21.919Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
     "homepageId": "55905bc6-d67e-4b7c-a273-ab18b0cefed1"
@@ -349,6 +349,22 @@
             "isSelected": true
           }
         ]
+      },
+      {
+        "id": "65e3055d-194f-4a30-b681-e7bf0937a105",
+        "name": "바베큐 세트",
+        "description": "장바구니는 집에 두고 오세요!\n바베큐 파티에 필요한 모든 것, 밤하늘 글램핑에서 다 준비해 드립니다. ",
+        "usageGuide": "[바베큐 세트 판매]\n- 펜션에서 바베큐 세트(2~3인용)를 판매합니다. \n- 금액 : 59,000원\n- 구성 : 한돈 (600g, 삼겹/오겹/목살 중 택1, 삼각/토시살 중 택1), 소시지(320g), 쌈장(2봉), 소금(2봉), 마늘(1봉), 햇반or라면 중 택2, 썰은김치, 쌈채소(상추/깻잎/고추) \n※ 숯/그릴비 별도, 추가 구매 가능",
+        "displayOrder": 5,
+        "images": [
+          {
+            "id": "c9da0f6f-0119-435a-b525-039ba85d35c2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/65e3055d-194f-4a30-b681-e7bf0937a105/main/1776223999567-okr7pqnxg7i.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -549,18 +565,35 @@
   "rooms": [
     {
       "id": "19db1d4c-3d81-4bde-b2e1-9e4c7f8f6ba7",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "은하수1 (개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Milky Way 1 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. ",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 1인 한정 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 1인 한정 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "은하수 (개별바베큐, 불멍, 랜덤배정)",
       "size": 36,
+      "sizePyeong": 10.9,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -576,6 +609,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [
@@ -740,22 +774,43 @@
           ]
         }
       ],
-      "displayOrder": 0
+      "displayOrder": 0,
+      "createdAt": "2025-12-03T01:53:40.822Z",
+      "updatedAt": "2026-04-03T08:40:29.193Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "fd0f9ec5-5333-4c4a-879d-728ae5b8396e",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "은하수2 (개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Milky Way 2 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. ",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 1인 한정 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "은하수 (개별바베큐, 불멍, 랜덤배정)",
       "size": 36.03,
+      "sizePyeong": 10.9,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -771,6 +826,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -778,22 +834,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2026-04-03T08:38:09.004Z",
+      "updatedAt": "2026-04-03T08:40:18.985Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "0d7bf279-d8b1-4062-8987-900a45eef2f2",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "은하수3 (개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Milky Way 3 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. ",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 1인 한정 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "은하수 (개별바베큐, 불멍, 랜덤배정)",
       "size": 36.03,
+      "sizePyeong": 10.9,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -809,6 +886,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -816,22 +894,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 2
+      "displayOrder": 2,
+      "createdAt": "2026-04-03T08:38:09.161Z",
+      "updatedAt": "2026-04-03T08:40:24.931Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "b6370e94-aeba-46e4-8171-ef212849caf4",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "은하수4 (개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Milky Way 4 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. ",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 1인 한정 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "은하수 (개별바베큐, 불멍, 랜덤배정)",
       "size": 36.03,
+      "sizePyeong": 10.9,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -847,6 +946,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -854,22 +954,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 3
+      "displayOrder": 3,
+      "createdAt": "2026-04-03T08:38:09.192Z",
+      "updatedAt": "2026-04-03T08:40:29.193Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "89a62fb3-b64e-4cae-959b-53f55261e446",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "오리온1 (개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Orion 1 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. \n",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 1인 한정 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "",
       "group": "오리온 (개별바베큐, 불멍, 랜덤배정)",
       "size": 33,
+      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -885,6 +1006,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [
@@ -1014,22 +1136,43 @@
           ]
         }
       ],
-      "displayOrder": 4
+      "displayOrder": 4,
+      "createdAt": "2025-12-03T01:54:18.197Z",
+      "updatedAt": "2026-04-03T08:40:46.005Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "6dc91c12-840a-4e5d-81ec-6086aa78468b",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "오리온2 (개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Orion 2 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. \n",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 1인 한정 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "오리온 (개별바베큐, 불멍, 랜덤배정)",
       "size": 33.06,
+      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1045,6 +1188,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -1052,22 +1196,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 5
+      "displayOrder": 5,
+      "createdAt": "2026-04-03T08:38:09.246Z",
+      "updatedAt": "2026-04-03T08:40:39.998Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "c90c6dda-cad5-4a71-9539-9056e234d89d",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "오리온3 (개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Orion 3 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. \n",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 1인 한정 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "오리온 (개별바베큐, 불멍, 랜덤배정)",
       "size": 33.06,
+      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1083,6 +1248,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -1090,22 +1256,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 6
+      "displayOrder": 6,
+      "createdAt": "2026-04-03T08:38:09.005Z",
+      "updatedAt": "2026-04-03T08:40:46.005Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "f29e2a22-5df4-4f23-8d19-565c3a997df3",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "북극성1 (개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Polaris 1 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. \n",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 1인 한정 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "",
       "group": "북극성 (개별바베큐, 불멍, 랜덤배정)",
       "size": 42,
+      "sizePyeong": 12.7,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1121,6 +1308,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [
@@ -1257,22 +1445,43 @@
           ]
         }
       ],
-      "displayOrder": 7
+      "displayOrder": 7,
+      "createdAt": "2025-12-03T01:56:31.275Z",
+      "updatedAt": "2026-04-03T08:41:13.736Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "1ff65662-c50c-4685-8f39-db6bbd95593e",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "북극성2 (개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Polaris 2 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. \n",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "북극성 (개별바베큐, 불멍, 랜덤배정)",
       "size": 36.36,
+      "sizePyeong": 11,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1288,6 +1497,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -1295,22 +1505,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 8
+      "displayOrder": 8,
+      "createdAt": "2026-04-03T08:38:09.159Z",
+      "updatedAt": "2026-04-03T08:40:53.315Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "782476e0-9219-4334-ad40-988bd5baf04b",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "북극성3 (개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Polaris 3 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. \n",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "북극성 (개별바베큐, 불멍, 랜덤배정)",
       "size": 36.36,
+      "sizePyeong": 11,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1326,6 +1557,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -1333,22 +1565,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 9
+      "displayOrder": 9,
+      "createdAt": "2026-04-03T08:38:09.007Z",
+      "updatedAt": "2026-04-03T08:40:59.695Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "df100462-9fb8-45d7-860c-d8acab713920",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "북극성4 (개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Polaris 4 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. \n",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "북극성 (개별바베큐, 불멍, 랜덤배정)",
       "size": 36.36,
+      "sizePyeong": 11,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1364,6 +1617,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -1371,22 +1625,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 10
+      "displayOrder": 10,
+      "createdAt": "2026-04-03T08:38:09.217Z",
+      "updatedAt": "2026-04-03T08:41:06.438Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "a9925678-7f33-41e8-b05d-b2899695e57c",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "북극성5 (개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Polaris 5 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. \n",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "북극성 (개별바베큐, 불멍, 랜덤배정)",
       "size": 36.36,
+      "sizePyeong": 11,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1402,6 +1677,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -1409,22 +1685,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 11
+      "displayOrder": 11,
+      "createdAt": "2026-04-03T08:38:09.209Z",
+      "updatedAt": "2026-04-03T08:41:13.736Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "89f24dd2-5b81-4496-afbc-c9236879036f",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "북극성1 (애견동반, 개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Polaris Pet-friendly 1 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. ",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "",
       "group": "북극성(애견동반, 개별바베큐, 불멍, 랜덤배정)",
       "size": 42,
+      "sizePyeong": 12.7,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1440,6 +1737,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [
@@ -1576,22 +1874,43 @@
           ]
         }
       ],
-      "displayOrder": 12
+      "displayOrder": 12,
+      "createdAt": "2025-12-03T01:56:31.075Z",
+      "updatedAt": "2026-04-03T08:41:39.707Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "13ed2f34-2b09-4972-89a3-c41837e0277a",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "북극성2 (애견동반, 개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Polaris Pet-friendly 2 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. ",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "북극성 (개별바베큐, 불멍, 랜덤배정)",
       "size": 41.98,
+      "sizePyeong": 12.7,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1607,6 +1926,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -1614,22 +1934,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 13
+      "displayOrder": 13,
+      "createdAt": "2026-04-03T08:38:09.238Z",
+      "updatedAt": "2026-04-03T08:41:23.784Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "2b398641-d167-4963-9e3a-a45bc08e81fd",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "북극성3 (애견동반, 개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Polaris Pet-friendly 3 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. ",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "북극성 (개별바베큐, 불멍, 랜덤배정)",
       "size": 41.98,
+      "sizePyeong": 12.7,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1645,6 +1986,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -1652,22 +1994,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 14
+      "displayOrder": 14,
+      "createdAt": "2026-04-03T08:38:09.162Z",
+      "updatedAt": "2026-04-03T08:41:29.502Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "e054e7f2-349d-4f6c-8ec3-de280b1b9a0d",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "북극성4 (애견동반, 개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Polaris Pet-friendly 4 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. ",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "북극성 (개별바베큐, 불멍, 랜덤배정)",
       "size": 41.98,
+      "sizePyeong": 12.7,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1683,6 +2046,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -1690,22 +2054,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 15
+      "displayOrder": 15,
+      "createdAt": "2026-04-03T08:38:09.252Z",
+      "updatedAt": "2026-04-03T08:41:34.788Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "aaeb1a67-942a-476c-b432-b620679f30d8",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "북극성5 (애견동반, 개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Polaris Pet-friendly 5 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. ",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "북극성 (개별바베큐, 불멍, 랜덤배정)",
       "size": 41.98,
+      "sizePyeong": 12.7,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1721,6 +2106,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -1728,22 +2114,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 16
+      "displayOrder": 16,
+      "createdAt": "2026-04-03T08:38:09.165Z",
+      "updatedAt": "2026-04-03T08:41:39.707Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "2585115c-d89b-4756-94aa-678a6285c283",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "캐빈하우스1 (독채, 개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Cabin House 1 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. ",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "",
       "group": "캐빈하우스(독채, 개별바베큐, 불멍, 랜덤배정)",
       "size": 42,
+      "sizePyeong": 12.7,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1759,6 +2166,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [
@@ -1902,22 +2310,43 @@
           ]
         }
       ],
-      "displayOrder": 17
+      "displayOrder": 17,
+      "createdAt": "2025-12-03T01:56:31.183Z",
+      "updatedAt": "2026-04-03T08:41:51.870Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "97fb2aae-110d-4792-b5b5-1cdc2ccf2441",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "캐빈하우스2 (독채, 개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Cabin House 2 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. ",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "캐빈하우스 (독채, 개별바베큐, 불멍, 랜덤배정)",
       "size": 41.98,
+      "sizePyeong": 12.7,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1933,6 +2362,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -1940,22 +2370,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 18
+      "displayOrder": 18,
+      "createdAt": "2026-04-03T08:38:09.283Z",
+      "updatedAt": "2026-04-03T08:41:47.636Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "7f735b2a-5f92-45e3-a74d-0979c04ecde7",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "캐빈하우스3 (독채, 개별바베큐, 불멍, 랜덤)",
+      "nameEn": "Cabin House 3 (Random)",
       "description": "원룸형 : 침대룸+주방+화장실1+테라스\n※ 모든 객실은 타입별 현장 랜덤배정입니다. ",
       "roomInfo": "[인원추가(연박 시에도 1회만 결제/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[객실 구비품목]\nTV, 에어컨(동계시 작은 히터), 냉장고, 식탁/야외테이블, 전기판넬(침실), 화장실 부스, 킹사이즈 침대, 옷걸이, 거울, 소파, 추가인원 매트리스, 주방도구(냄비, 후라이팬, 식기류, 집개, 가위, 국자 등), 비누, 치약, 드라이기, 버너, 전기밥솥(관리실 무료 대여 가능)",
       "usageGuide": "[인원추가(1박기준/현장결제)]\n- 1인 20,000원 (36개월 이상 / 침구류 제공) / 36개월 미만 무료입실 (침구 미제공)\n- 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "캐빈하우스 (독채, 개별바베큐, 불멍, 랜덤배정)",
       "size": 41.98,
+      "sizePyeong": 12.7,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드"
@@ -1971,6 +2422,7 @@
       "roomViews": [],
       "roomStructures": [],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -1978,22 +2430,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 19
+      "displayOrder": 19,
+      "createdAt": "2026-04-03T08:38:09.221Z",
+      "updatedAt": "2026-04-03T08:41:51.870Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "5cf7ad83-8fe0-470e-a80d-30fbc117aeab",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "[당일이용/숙박불가] 북극성 (6시간)",
+      "nameEn": "[Same-day Only] Polaris (6h Use)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "",
       "usageGuide": "",
       "group": "[당일이용/숙박불가] 북극성 (6시간)",
       "size": 42.98,
+      "sizePyeong": 13,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -2017,6 +2490,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -2024,22 +2498,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 25
+      "displayOrder": 25,
+      "createdAt": "2026-03-31T08:51:47.432Z",
+      "updatedAt": "2026-04-03T08:39:09.956Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "30fa2ba9-10ef-4760-94cb-dc8336bf8f81",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "[당일이용/숙박불가] 북극성 (6시간,애견동반)",
+      "nameEn": "[Same-day Only] Polaris (6h Use,Pet)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "",
       "usageGuide": "",
       "group": "[당일이용/숙박불가] 북극성 (6시간)",
       "size": 42.98,
+      "sizePyeong": 13,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -2063,6 +2558,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -2070,22 +2566,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 26
+      "displayOrder": 26,
+      "createdAt": "2026-03-31T08:51:47.423Z",
+      "updatedAt": "2026-04-03T08:39:09.956Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "211f4b3b-d395-4815-99d7-d9644812266b",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "[당일이용/숙박불가] 포크닉룸1 (3시간)",
+      "nameEn": "[Day-Use Only] Porknic Room1 (3h)",
       "description": "원룸형, 주방1",
       "roomInfo": "",
       "usageGuide": "",
       "group": "[당일이용/숙박불가] 포크닉룸 (3시간)",
       "size": 42.98,
+      "sizePyeong": 13,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 0,
         "bathroom": 0,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [],
       "amenities": [
@@ -2101,6 +2618,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -2108,22 +2626,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 27
+      "displayOrder": 27,
+      "createdAt": "2026-03-31T08:51:47.282Z",
+      "updatedAt": "2026-04-03T08:39:09.956Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "621a2964-4feb-4412-8394-3970672b8596",
+      "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
+      "propertyName": "속초 밤하늘글램핑",
       "name": "[당일이용/숙박불가] 포크닉룸2 (3시간)",
+      "nameEn": "[Day-Use Only] Porknic Room2 (3h)",
       "description": "원룸형, 주방1",
       "roomInfo": "",
       "usageGuide": "",
       "group": "[당일이용/숙박불가] 포크닉룸 (3시간)",
       "size": 42.98,
+      "sizePyeong": 13,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 0,
         "bathroom": 0,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [],
       "amenities": [
@@ -2139,6 +2678,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "7504d24a-c0e9-4053-9a44-fb36822313eb",
       "images": [
         {
           "thumbnail": [],
@@ -2146,7 +2686,11 @@
           "exterior": []
         }
       ],
-      "displayOrder": 28
+      "displayOrder": 28,
+      "createdAt": "2026-03-31T08:51:47.441Z",
+      "updatedAt": "2026-04-03T08:39:09.956Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     }
   ],
   "homepage": {
@@ -2229,7 +2773,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "속초 밤하늘 글램핑"
+                "description": "속초 밤하늘 글램핑",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": "  ",
@@ -2242,7 +2788,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "  "
+                "description": "  ",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": "Special for You",
@@ -2269,7 +2817,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "사랑하는 가족, 연인, 친구들과 함께하는 따스한 휴식의 시간"
+                "description": "사랑하는 가족, 연인, 친구들과 함께하는 따스한 휴식의 시간",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "Romance and Rest",
@@ -2317,7 +2867,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "낭만으로 물드는 글램핑에서 오래도록 머물 이야기"
+                "description": "낭만으로 물드는 글램핑에서 오래도록 머물 이야기",
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "With someone you love",
@@ -2351,7 +2903,9 @@
                     "isSelected": false
                   }
                 ],
-                "description": "사랑하는 사람과, 밤하늘을 가득 채우는 순간"
+                "description": "사랑하는 사람과, 밤하늘을 가득 채우는 순간",
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
@@ -6537,6 +7091,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "55905bc6-d67e-4b7c-a273-ab18b0cefed1"
   }
 }
