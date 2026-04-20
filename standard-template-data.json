@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-04-15T03:36:59.314Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-04-20T01:35:57.989Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "20cce15e-1244-4b38-9806-839ff6305168",
     "homepageId": "55905bc6-d67e-4b7c-a273-ab18b0cefed1"
@@ -2773,9 +2773,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "속초 밤하늘 글램핑",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "속초 밤하늘 글램핑"
               },
               "closing": {
                 "title": "  ",
@@ -2788,9 +2788,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "  ",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "  "
               },
               "essence": {
                 "title": "Special for You",
@@ -2817,9 +2817,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "사랑하는 가족, 연인, 친구들과 함께하는 따스한 휴식의 시간",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "사랑하는 가족, 연인, 친구들과 함께하는 따스한 휴식의 시간"
               },
               "gallery": {
                 "title": "Romance and Rest",
@@ -2867,9 +2867,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "낭만으로 물드는 글램핑에서 오래도록 머물 이야기",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "낭만으로 물드는 글램핑에서 오래도록 머물 이야기"
               },
               "signature": {
                 "title": "With someone you love",
@@ -2903,9 +2903,9 @@
                     "isSelected": false
                   }
                 ],
-                "description": "사랑하는 사람과, 밤하늘을 가득 채우는 순간",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "사랑하는 사람과, 밤하늘을 가득 채우는 순간"
               }
             }
           ]
@@ -3673,7 +3673,9 @@
             "isSelected": true,
             "category": "property_exterior"
           }
-        ]
+        ],
+        "name": "속초 밤하늘글램핑",
+        "nameEn": "Sokcho Night Sky Glamping"
       },
       "roomtypes": [
         {
